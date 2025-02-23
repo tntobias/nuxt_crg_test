@@ -1,26 +1,16 @@
-title: Nuxt UI Pro - SaaS template
-description: Nuxt UI Pro is a collection of premium Vue components built on top of Nuxt UI to create beautiful & responsive Nuxt applications in minutes.
+title: Cheyenne Radiology
+description: Established in 1952, Cheyenne Radiology is Cheyenne’s first and only full-service outpatient imaging center. Our nine radiologists, all certified by the American Board of Radiology, perform radiological interpretive procedures and services throughout Wyoming and Colorado.
 navigation: false
 hero:
-  title: Build your SaaS in seconds
-  description: This template demonstrates most of Nuxt UI Pro's components. It's a great starting point to build your own SaaS.
-  headline:
-    label: Made with Nuxt UI Pro
-    to: https://ui.nuxt.com/pro
-    icon: i-heroicons-arrow-top-right-on-square-20-solid
+  title: We see you
+  description: Providing medical imaging services in a welcoming and comfortable environment.
   links:
-    - label: Get started
-      to: '/signup'
+    - label: Schedule Now
+      to: "/schedule"
       size: xl
-      color: black
-      icon: i-heroicons-arrow-right-20-solid
+      color: primary
+      icon: i-heroicons-calendar
       trailing: true
-    - label: Use this template
-      icon: i-simple-icons-github
-      size: xl
-      color: gray
-      to: https://github.com/nuxt-ui-pro/saas
-      target: _blank
 sections:
   - title: The power of our service
     description: Aliqua labore laboris fugiat. Reprehenderit exercitation eu commodo. Officia nostrud sit et aliqua ea ex sunt minim incididunt sunt.
