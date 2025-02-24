@@ -2,11 +2,11 @@ title: Cheyenne Radiology
 description: Established in 1952, Cheyenne Radiology is Cheyenne’s first and only full-service outpatient imaging center. Our nine radiologists, all certified by the American Board of Radiology, perform radiological interpretive procedures and services throughout Wyoming and Colorado.
 navigation: false
 hero:
-  title: We see you
+  title: Come see us
   description: Providing medical imaging services in a welcoming and comfortable environment.
   links:
     - label: Schedule Now
-      to: "/schedule"
+      to: /schedule
       size: xl
       color: primary
       icon: i-heroicons-calendar
